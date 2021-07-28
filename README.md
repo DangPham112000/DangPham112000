@@ -1,5 +1,5 @@
 # Hi there, I'm Pham Hai Dang 👋
-I was born and raised in Vietnam. I am currently a Junior at VNUHCM-University Of Science.
+I was born and raised in Vietnam. I am currently a Junior at VNUHCM-University Of Science. My daily task is to study and learn new things.
 
 ## My skills 💪
 These are some of the major technologies that I use or have worked on in the past:
@@ -17,5 +17,5 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|--|
 
 **UML Design Tools**
-<img alt="Enterprise Architecture 15" title="Enterprise Architecture 15" width="40px" src="./icons/enterprisearchitecture.png">
+<img alt="Enterprise Architect 15" title="Enterprise Architect 15" width="40px" src="./icons/enterprisearchitect.png">
 |--|
