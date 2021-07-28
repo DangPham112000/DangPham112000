@@ -1,5 +1,5 @@
 # Hi there, I'm Pham Hai Dang 👋
-I come from Vietnam. I'm a Juniors student in VNUHCM-University Of Science.
+I was born and raised in Vietnam. I am currently a Junior at VNUHCM-University Of Science.
 
 ## My skills 💪
 These are some of the major technologies that I use or have worked on in the past:
@@ -9,7 +9,7 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|--|--|--|--|
 
 **Database Management Systems**
-<img alt="MSSQLServer" title="MSSQLServer" width="40px" src="./icons/mssqlserver.png">|<img title="oracle" alt="oracle" width="40px" src="./icons/oracle.png">
+<img alt="MS SQL Server" title="MS SQL Server" width="40px" src="./icons/mssqlserver.png">|<img title="Oracle" alt="Oracle" width="40px" src="./icons/oracle.png">
 |--|--|
 
 **IDEs**
@@ -17,5 +17,5 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|--|
 
 **UML Design Tools**
-<img alt="Enterprise Architecture 15" title="E" width="40px" src="./icons/enterprise architecture.png">
+<img alt="Enterprise Architecture 15" title="Enterprise Architecture 15" width="40px" src="./icons/enterprisearchitecture.png">
 |--|
