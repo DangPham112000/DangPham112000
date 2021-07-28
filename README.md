@@ -13,8 +13,8 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|
 
 **IDEs**
-<img alt="Visual Studio 2019" title="Visual Studio 2019" width="40px" src="./icons/vs2019.png">|<img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="./icons/vscode.png">|<img title="Sublime Text 3" alt="Sublime Text 3" width="40px" src="./icons/sublimetext3.png">
-|--|--|--|
+<img alt="Visual Studio 2019" title="Visual Studio 2019" width="40px" src="./icons/vs2019.png">|<img title="Visual Studio Code" alt="Visual Studio Code" width="40px" src="./icons/vscode.png">
+|--|--|
 
 **UML Design Tools**
 <img alt="Enterprise Architect 15" title="Enterprise Architect 15" width="40px" src="./icons/enterprisearchitect15.png">
