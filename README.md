@@ -17,5 +17,5 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|--|--|
 
 **UML Design Tools**
-<img alt="Enterprise Architect 15" title="Enterprise Architect 15" width="40px" src="./icons/enterprisearchitect.png">
+<img alt="Enterprise Architect 15" title="Enterprise Architect 15" width="40px" src="./icons/enterprisearchitect15.png">
 |--|
