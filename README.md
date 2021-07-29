@@ -4,7 +4,7 @@ I was born and raised in Vietnam. I am currently a Junior at VNUHCM-University O
 ## My skills 💪
 These are some of the major technologies that I use or have worked on in the past:
 
-**Programing languages**
+**Programming languages**
 <img alt="HTML" title="HTML" width="40px" src="./icons/html.png">|<img title="CSS" alt="CSS" width="40px" src="./icons/css.png">|<img title="JavaScript" alt="JavaScript" width="40px" src="./icons/javascript.png" />|<img title="C" alt="C" width="40px" src="./icons/c.png" />|<img title="C++" alt="C++" width="40px" src="./icons/c++.png" />|<img title="SQL" alt="SQL" width="40px" src="./icons/sql.png" />
 |--|--|--|--|--|--|
 
